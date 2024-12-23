@@ -1,2 +1,3 @@
-# Clone
-Shoping Website Clone repository. 
+# Amazone Clone
+ 📙 Basic Used of **HTML** and **CSS** 
+🖥 
